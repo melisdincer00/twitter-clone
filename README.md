@@ -128,18 +128,18 @@ Arayüzü daha canlı göstermek için farklı kullanıcı kartları, haber twee
 ## Ekran Görselleri
 
 ### Ana Sayfa
-Aşağıya projenin ana sayfa görüntüsü eklenecektir.
 
+#### Aydınlık Mod
 ![Ana Sayfa](img/anasayfa-light-mode.png)
 
+#### Karanlık Mod
 ![Ana Sayfa Karanlık Mod](img/anasayfa-dark-mode.png)
 
+#### Mobil Görünüm
 ![Mobil Görünüm](img/mobil-gorunum.png)
 
+---
 
 ### Profil Sayfası
-Aşağıya projenin profil sayfası görüntüsü eklenecektir.
 
 ![Profil Sayfası](img/profil-sayfasi.png)
-
-
