@@ -82,8 +82,7 @@
   --color-reply: #1d9bf0;
 }
 
-/*
-   RESET & BASE */
+/* GENEL AYARLAR */
 *,
 *::before,
 *::after {
@@ -138,8 +137,7 @@ body {
   width: 100%;
 }
 
-/*
-   SOL SIDEBAR */
+/*SOL SIDEBAR */
 .sidebar {
   position: sticky;
   top: 0;

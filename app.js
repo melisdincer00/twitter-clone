@@ -15,7 +15,7 @@ function toggleTheme() {
   }
 }
 
-// Sayfa yüklendiğinde kayıtlı temayı uygula
+// Sayfa yüklendiğinde kayıtlı temayı uygular
 (function applyStoredTheme() {
   const stored = localStorage.getItem('theme');
   if (stored) {
@@ -148,7 +148,7 @@ document.querySelectorAll('.feed-tab').forEach(tab => {
   });
 });
 
-// ── MEVCUT TWEET AKSİYONLARINA EVENT DELEGATION ──
+// ── TWEET BUTONLARI(Event Delegation) ──
 document.addEventListener('click', function (e) {
   const likeBtn = e.target.closest('.like-btn');
   const retweetBtn = e.target.closest('.retweet-btn');
